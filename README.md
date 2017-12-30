@@ -1,2 +1,2 @@
-# flow-network
-Rust crate for working with flow networks
+# graph
+Rust library for graphs and graph networks (in development)
